@@ -7,13 +7,13 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://linkedin.com/in/ravvi-singh-263400311">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:sravi3516@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/YOUR-TWITTER">
+<a href="https://twitter.com/YOUR-TWITTER">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/>
   </a>
 </p>
@@ -25,7 +25,7 @@
 - 🤖 I'm an **AI Engineer** specializing in building intelligent, real-world applications
 - 🔭 Currently building **[ai-policy-copilot](https://github.com/ravirocko315/ai-policy-copilot)** — an AI-powered tool for policy analysis & recommendations
 - 🧠 Passionate about **LLMs, NLP, and applied machine learning**
-- 🌱 Currently deepening my knowledge in **[RAG systems / fine-tuning / LangChain]** *(customize this)*
+- 🌱 Currently deepening my knowledge in **RAG systems, LangChain, and LLM fine-tuning**
 - 💡 I believe in using AI to solve meaningful, real-world problems
 - 📫 Reach me at: **your.email@example.com**
 
