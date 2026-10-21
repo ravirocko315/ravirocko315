@@ -27,7 +27,7 @@
 - 🧠 Passionate about **LLMs, NLP, and applied machine learning**
 - 🌱 Currently deepening my knowledge in **RAG systems, LangChain, and LLM fine-tuning**
 - 💡 I believe in using AI to solve meaningful, real-world problems
-- 📫 Reach me at: **your.email@example.com**
+- 📫 Reach me at: **sravi3516@gmail.com**
 
 ---
 
